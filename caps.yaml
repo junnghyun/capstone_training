@@ -1,0 +1,9 @@
+train : /home/nsugis/문서/capstone_11/end/train
+val : /home/nsugis/문서/capstone_11/end/val
+test : /home/nsugis/문서/capstone_11/end/train
+
+nc : 2
+names : ['crack', 'pothole']
+
+early_stop : True
+patience : 30
